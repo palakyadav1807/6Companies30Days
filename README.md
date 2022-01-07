@@ -2,7 +2,7 @@
 - [x] [Print Anagrams Together](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/)
 - [x] [Overlapping rectangles](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/)
 - [x] [Count the subarrays having product less than k](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1)
-- [ ] [Run Length Encoding](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/)
+- [x] [Run Length Encoding](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/)
 - [ ] [Program to find Nth Ugly Number](https://leetcode.com/problems/ugly-number-ii/)
 - [ ] [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 - [ ] [Find the position of M-th item](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1)
