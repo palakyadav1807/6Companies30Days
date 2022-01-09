@@ -5,7 +5,7 @@
 - [x] [Run Length Encoding](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/)
 - [ ] [Program to find Nth Ugly Number](https://leetcode.com/problems/ugly-number-ii/)
 - [ ] [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
-- [ ] [Find the position of M-th item](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1)
+- [x] [Find the position of M-th item](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1)
 - [ ] [Total Decoding Messages](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1)
 - [ ] [Number following a pattern](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1)
 - [ ] Find max 10 numbers in a list having 10M entries.
