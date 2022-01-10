@@ -13,4 +13,4 @@
 - [ ] [Squares in N*N Chessboard](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1)
 - [ ] [Decode the string](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1)
 - [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
-- [ ] [Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)
+- [x] [Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)
