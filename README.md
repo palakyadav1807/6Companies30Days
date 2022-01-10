@@ -6,8 +6,8 @@
 - [ ] [Program to find Nth Ugly Number](https://leetcode.com/problems/ugly-number-ii/)
 - [ ] [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 - [x] [Find the position of M-th item](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1)
-- [ ] [Total Decoding Messages](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1)
-- [ ] [Number following a pattern](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1)
+- [x] [Total Decoding Messages](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1)
+- [x] [Number following a pattern](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1)
 - [ ] Find max 10 numbers in a list having 10M entries.
 - [ ] [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
 - [ ] [Squares in N*N Chessboard](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1)
