@@ -8,7 +8,7 @@
 - [x] [Find the position of M-th item](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1)
 - [x] [Total Decoding Messages](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1)
 - [x] [Number following a pattern](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1)
-- [ ] [Find max 10 numbers in a list having 10M entries](https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1/)
+- [x] [Find max 10 numbers in a list having 10M entries](https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1/)
 - [x] [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
 - [x] [Squares in N*N Chessboard](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1)
 - [ ] [Decode the string](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1)
